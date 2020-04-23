@@ -1,0 +1,3 @@
+Enkapsulacja polega na ukrywaniu wybranych parametrów oraz metod klasy,
+tak aby nie były dostępne z zewnątrz, a jedynie na użytek wewnętrzny klasy.
+Korzystamy z niej poprzez dopisanie "_" przed parametrem.
